@@ -1,4 +1,4 @@
-#authos:g. ozan bozdag
+#author:g. ozan bozdag
 #!/bin/bash
 
 # Define the reference genome paths for alignment and variant calling
