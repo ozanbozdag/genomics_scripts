@@ -11,8 +11,7 @@ Output: New TAB files with '_freq.tab' suffix containing original data plus alle
 
 The script:
 1. Reads TAB files containing variant information
-2. Extracts AD (Allele Depth: number of reads supporting each allele) and 
-   DP (Total Depth: total number of reads covering the position) values
+2. Extracts AD (Allele Depth, for the reference allele) and DP (Total Depth: total number of reads covering the position) values
 3. Calculates alternative allele frequency as a percentage
 4. Writes results to new files with '_freq.tab' suffix
 
